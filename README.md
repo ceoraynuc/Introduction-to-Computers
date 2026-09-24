@@ -18,5 +18,40 @@
 
 # 
 
-# Software, on the other hand, consists of the intangible instructions and programs that tell the hardware exactly what to do. Software is broadly split into \*\*system software\*\* (like operating systems such as Windows, macOS, or Linux), which manages the hardware resources, and \*\*application software\*\* (like web browsers, word processors, and games), which allows users to perform specific tasks. \*Without software, hardware is like a car without fuel; without hardware, software has no physical vehicle to run on.\*
+Software, on the other hand, consists of the intangible instructions and programs that tell the hardware exactly what to do. Software is broadly split into \*\*system software\*\* (like operating systems such as Windows, macOS, or Linux), which manages the hardware resources, and \*\*application software\*\* (like web browsers, word processors, and games), which allows users to perform specific tasks. \*Without software, hardware is like a car without fuel; without hardware, software has no physical vehicle to run on.\*
+
+
+
+## Types of Computers
+===
+
+# 
+
+# Computers can be classified into several types based on their size, processing power, and purpose.
+
+# 
+
+# | Type | Description | Example |
+
+# |------|-------------|---------|
+
+# | Supercomputer | Extremely powerful, used for complex scientific calculations | Weather forecasting systems |
+
+# | Mainframe Computer | Large systems used by big organizations to process bulk data | Bank transaction systems |
+
+# | Minicomputer | Mid-sized computers with moderate processing power | Small business servers |
+
+# | Microcomputer | Personal computers used for everyday tasks | Laptops, desktops |
+
+# | Embedded Computer | Small systems built into other devices for specific tasks | Smart TVs, washing machines |
+
+# 
+
+# Based on data handling, computers can also be grouped into:
+
+# \- \*\*Analog computers\*\* – process continuous data (e.g. old speedometers)
+
+# \- \*\*Digital computers\*\* – process discrete data (e.g. modern PCs)
+
+# \- \*\*Hybrid computers\*\* – combine both analog and digital processing
 
